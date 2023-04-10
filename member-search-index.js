@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"SDLC","c":"wordCount","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"SDLC","c":"wordCount","l":"wordCount()","u":"%3Cinit%3E()"}];updateSearchResults();
